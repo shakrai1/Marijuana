@@ -14,7 +14,8 @@ h1{
 }
 section{
     display: flex;
-
+    margin-bottom
+    : 100px;
 }
 .size img {
     width: 100%;
@@ -32,7 +33,11 @@ input{
     border-radius: 5%;
     font-weight: 700;
 }
-#back-img{
+.back-img{
     background-image:url(images/240_F_499720953_6mVFisNfDrvdl1B4qANgBeFh5OMp0CYe.jpg);
     background-repeat:;
+}
+.marijuana-effect{
+    background-image: url(images/240_F_499720953_6mVFisNfDrvdl1B4qANgBeFh5OMp0CYe.jpg);
+    background-repeat: ; ;
 }
