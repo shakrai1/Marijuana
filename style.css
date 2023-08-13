@@ -12,7 +12,7 @@ h1{
     width: 50%;
     padding-left: 5%;
 }
-section{
+.flexiable-container{
     display: flex;
     margin-bottom
     : 100px;
@@ -40,4 +40,37 @@ input{
 .marijuana-effect{
     background-image: url(images/240_F_499720953_6mVFisNfDrvdl1B4qANgBeFh5OMp0CYe.jpg);
     background-repeat: ; ;
+}
+.experience{
+    display: flex;
+}
+.box-item{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    background-color: #b8d5e0;
+    border-imagee
+}
+.experience-area{
+    background-image: url(images/240_F_499720953_6mVFisNfDrvdl1B4qANgBeFh5OMp0CYe.jpg);
+}
+#border-color{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#border-color-1{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+#padding{
+    padding-left: 5%;
+}
+footer p {
+    text-align: center;
 }
